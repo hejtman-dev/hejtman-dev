@@ -27,8 +27,9 @@ I'm a computer science student at VSB-TUO with a passion for software developmen
 ## 📫 How to reach me
 - 🌐 Website: [hejtman.dev]()  
 - ✉️ Email: hejtman.dev@seznam.cz
-- 💼 LinkedIn *()*  
+- 💼 LinkedIn [Matej.Hejtman]()  
 - 🐍 GitHub: [@hejtman-dev](https://github.com/hejtman-dev)
+- CV: ()
 
 ---
 
