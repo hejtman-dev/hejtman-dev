@@ -33,8 +33,10 @@ I'm a computer science student at VSB-TUO with a passion for software developmen
 ---
 
 ## 😄 Fun fact
-My personal logo features a stylized pangolin inside a shield – representing protection, creativity, and nature. 🐾
-
+My personal logo features a stylized pangolin inside a shield - my favourite animal. 🐾
+I love learning and trying new things.
+I belive that any problem has at least one solution, so never give up ( That is the only thing that ceeps me debugging for hours )
+Anyone else likes making documentations?
 ---
 
 Thanks for stopping by! 🚀
